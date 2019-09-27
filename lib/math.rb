@@ -1,6 +1,8 @@
 def addition(num1, num2)
-num1 = gets.chom()
+num1 = gets.chomp()
+num2 = gets.chomp()
 end
+
 
 def subtraction(num1, num2)
 
