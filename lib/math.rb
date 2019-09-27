@@ -1,5 +1,5 @@
 def addition(num1, num2)
-num1 = gets.chm
+num1 = gets.chom()
 end
 
 def subtraction(num1, num2)
