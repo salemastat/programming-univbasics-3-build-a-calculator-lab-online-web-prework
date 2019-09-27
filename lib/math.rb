@@ -2,7 +2,7 @@ def addition(num1, num2)
 num1 = gets.chomp()
 num2 = gets.chomp()
 end
-
+num1.to_i + nu
 
 def subtraction(num1, num2)
 
